@@ -19,7 +19,7 @@ body{background-color:#ec9918 }
        }
 
 .whole .links{ flex: 1 1 170%; 
-  margin-top: 10px;}
+   margin-top: 10px;}
 
 .whole .register{
   flex: 1 1 110%;
